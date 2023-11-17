@@ -1,0 +1,30 @@
+L 11/11/2023 - 14:02:58: SourceMod log file session started (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\L20231111.log") (Version "1.11.0.6947")
+L 11/11/2023 - 14:02:58: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 11/11/2023 - 14:02:58: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 11/11/2023 - 14:02:58: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 11/11/2023 - 14:03:44: [rtd.smx] Added chat trigger: rollthedice
+L 11/11/2023 - 14:03:44: [rtd.smx] Added chat trigger: roll
+L 11/11/2023 - 18:23:33: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" changed cvar (cvar "sv_airaccelerate") (value "15")
+L 11/11/2023 - 18:23:45: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" changed cvar (cvar "sv_airaccelerate") (value "100")
+L 11/11/2023 - 18:24:31: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" changed cvar (cvar "sv_airaccelerate") (value "180")
+L 11/11/2023 - 18:24:34: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" changed cvar (cvar "sv_airaccelerate") (value "80")
+L 11/11/2023 - 18:26:16: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" changed cvar (cvar "sv_airaccelerate") (value "70")
+L 11/11/2023 - 18:26:48: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" changed cvar (cvar "sv_airaccelerate") (value "65")
+L 11/11/2023 - 18:28:18: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:21: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:21: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:21: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:21: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:21: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:21: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:22: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:22: [playercommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" slapped "Erdoodre<16><[U:1:356621499]><>" (damage "0")
+L 11/11/2023 - 18:28:49: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" changed cvar (cvar "sv_airaccelerate") (value "50")
+L 11/11/2023 - 22:21:42: Log file closed.
+L 11/11/2023 - 22:24:18: SourceMod log file session started (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\L20231111.log") (Version "1.11.0.6947")
+L 11/11/2023 - 22:24:18: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 11/11/2023 - 22:24:18: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 11/11/2023 - 22:24:18: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 11/11/2023 - 22:24:40: [rtd.smx] Added chat trigger: rollthedice
+L 11/11/2023 - 22:24:40: [rtd.smx] Added chat trigger: roll
+L 11/12/2023 - 11:03:23: Log file closed.

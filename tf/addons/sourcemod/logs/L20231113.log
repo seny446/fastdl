@@ -1,0 +1,27 @@
+L 11/13/2023 - 00:33:52: SourceMod log file session started (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\L20231113.log") (Version "1.11.0.6947")
+L 11/13/2023 - 00:33:52: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 11/13/2023 - 00:33:52: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 11/13/2023 - 00:33:52: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 11/13/2023 - 00:34:17: [rtd.smx] Added chat trigger: rollthedice
+L 11/13/2023 - 00:34:17: [rtd.smx] Added chat trigger: roll
+L 11/13/2023 - 11:54:42: Log file closed.
+L 11/13/2023 - 11:54:58: SourceMod log file session started (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\L20231113.log") (Version "1.11.0.6947")
+L 11/13/2023 - 11:54:58: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 11/13/2023 - 11:54:58: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 11/13/2023 - 11:54:58: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 11/13/2023 - 11:55:26: [rtd.smx] Added chat trigger: rollthedice
+L 11/13/2023 - 11:55:26: [rtd.smx] Added chat trigger: roll
+L 11/13/2023 - 17:59:15: Log file closed.
+L 11/13/2023 - 18:00:00: SourceMod log file session started (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\L20231113.log") (Version "1.11.0.6947")
+L 11/13/2023 - 18:00:00: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 11/13/2023 - 18:00:00: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 11/13/2023 - 18:00:00: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 11/13/2023 - 18:00:27: [rtd.smx] Added chat trigger: rollthedice
+L 11/13/2023 - 18:00:27: [rtd.smx] Added chat trigger: roll
+L 11/13/2023 - 18:16:16: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" refreshed the admin cache.
+L 11/13/2023 - 18:17:09: [basevotes.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" initiated a generic vote (question "anan" / answers "sikeyim" "sikeyim" "sikeyim").
+L 11/13/2023 - 18:24:09: [basevotes.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" initiated a generic vote (question "anan" / answers "sikeyim" "sikeyim" "sikeyim").
+L 11/13/2023 - 18:45:29: [basebans.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" banned "!İNCOMİİİİNG<4><[U:1:1609974392]><>" (minutes "0") (reason "siktir git oc")
+L 11/13/2023 - 19:19:07: [basecommands.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" kicked "Bronya Zaychick<7><[U:1:1042496483]><>" (reason "")
+L 11/13/2023 - 19:19:23: [basebans.smx] "☺♦•◘♣☻♠○<2><[U:1:184909507]><>" banned "Bronya Zaychick<8><[U:1:1042496483]><>" (minutes "0") (reason "siktir git oc")
+L 11/14/2023 - 08:32:33: Log file closed.

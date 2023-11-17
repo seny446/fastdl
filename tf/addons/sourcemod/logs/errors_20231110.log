@@ -1,0 +1,55 @@
+L 11/10/2023 - 00:43:40: SourceMod error session started
+L 11/10/2023 - 00:43:40: Info (map "mario_kart_2_v30") (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\errors_20231110.log")
+L 11/10/2023 - 00:43:40: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/10/2023 - 00:43:40: [SM] Exception reported: Mapcycle Not Found
+L 11/10/2023 - 00:43:40: [SM] Blaming: nextmap.smx
+L 11/10/2023 - 00:43:40: [SM] Call stack trace:
+L 11/10/2023 - 00:43:40: [SM]   [0] SetFailState
+L 11/10/2023 - 00:43:40: [SM]   [1] Line 142, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 11/10/2023 - 00:43:40: [SM]   [2] Line 112, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 11/10/2023 - 09:58:38: Error log file session closed.
+L 11/10/2023 - 10:04:54: SourceMod error session started
+L 11/10/2023 - 10:04:54: Info (map "mario_kart_2_v30") (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\errors_20231110.log")
+L 11/10/2023 - 10:04:54: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/10/2023 - 10:04:54: [SM] Exception reported: Mapcycle Not Found
+L 11/10/2023 - 10:04:54: [SM] Blaming: nextmap.smx
+L 11/10/2023 - 10:04:54: [SM] Call stack trace:
+L 11/10/2023 - 10:04:54: [SM]   [0] SetFailState
+L 11/10/2023 - 10:04:54: [SM]   [1] Line 142, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 11/10/2023 - 10:04:54: [SM]   [2] Line 112, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 11/10/2023 - 13:40:11: Error log file session closed.
+L 11/10/2023 - 15:03:19: SourceMod error session started
+L 11/10/2023 - 15:03:19: Info (map "mario_kart_2_v30") (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\errors_20231110.log")
+L 11/10/2023 - 15:03:19: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/10/2023 - 15:03:19: [SM] Exception reported: Mapcycle Not Found
+L 11/10/2023 - 15:03:19: [SM] Blaming: nextmap.smx
+L 11/10/2023 - 15:03:19: [SM] Call stack trace:
+L 11/10/2023 - 15:03:19: [SM]   [0] SetFailState
+L 11/10/2023 - 15:03:19: [SM]   [1] Line 142, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 11/10/2023 - 15:03:19: [SM]   [2] Line 112, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 11/10/2023 - 15:49:31: [SM] Exception reported: Property "m_iPlayerIndex" not found (entity 75/tf_ragdoll)
+L 11/10/2023 - 15:49:31: [SM] Blaming: rtd.smx
+L 11/10/2023 - 15:49:31: [SM] Call stack trace:
+L 11/10/2023 - 15:49:31: [SM]   [0] SetEntProp
+L 11/10/2023 - 15:49:31: [SM]   [1] Line 1951, C:\Users\root\Documents\Sourcemod\rtd.sp::CreateRagdoll
+L 11/10/2023 - 15:49:31: [SM]   [2] Line 1115, C:\Users\root\Documents\Sourcemod\rtd.sp::InitiateEffect
+L 11/10/2023 - 15:49:31: [SM]   [3] Line 833, C:\Users\root\Documents\Sourcemod\rtd.sp::RTD
+L 11/10/2023 - 15:49:31: [SM]   [4] Line 556, C:\Users\root\Documents\Sourcemod\rtd.sp::Listener_Say
+L 11/10/2023 - 17:52:55: [SM] Exception reported: Property "m_iPlayerIndex" not found (entity 68/tf_ragdoll)
+L 11/10/2023 - 17:52:55: [SM] Blaming: rtd.smx
+L 11/10/2023 - 17:52:55: [SM] Call stack trace:
+L 11/10/2023 - 17:52:55: [SM]   [0] SetEntProp
+L 11/10/2023 - 17:52:55: [SM]   [1] Line 1951, C:\Users\root\Documents\Sourcemod\rtd.sp::CreateRagdoll
+L 11/10/2023 - 17:52:55: [SM]   [2] Line 1115, C:\Users\root\Documents\Sourcemod\rtd.sp::InitiateEffect
+L 11/10/2023 - 17:52:55: [SM]   [3] Line 833, C:\Users\root\Documents\Sourcemod\rtd.sp::RTD
+L 11/10/2023 - 17:52:55: [SM]   [4] Line 556, C:\Users\root\Documents\Sourcemod\rtd.sp::Listener_Say
+L 11/10/2023 - 22:16:04: Error log file session closed.
+L 11/10/2023 - 22:18:05: SourceMod error session started
+L 11/10/2023 - 22:18:05: Info (map "mario_kart_2_v30") (file "C:\Users\Administrator\Desktop\myserver\seri\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\logs\errors_20231110.log")
+L 11/10/2023 - 22:18:05: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/10/2023 - 22:18:05: [SM] Exception reported: Mapcycle Not Found
+L 11/10/2023 - 22:18:05: [SM] Blaming: nextmap.smx
+L 11/10/2023 - 22:18:05: [SM] Call stack trace:
+L 11/10/2023 - 22:18:05: [SM]   [0] SetFailState
+L 11/10/2023 - 22:18:05: [SM]   [1] Line 142, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 11/10/2023 - 22:18:05: [SM]   [2] Line 112, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
